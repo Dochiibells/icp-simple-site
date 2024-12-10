@@ -6,6 +6,13 @@
       },
       "source": ["src"],
       "type": "assets"
+    },
+    "icp_portfolio":{
+      "frontend": {
+        "entrypoint": "portfolio/index.html"
+      },
+      "source": ["portfolio"],
+      "type": "assets"
     }
   },
   "dfx": "0.22.0",
